@@ -1,0 +1,1 @@
+DATAPATH="C:\\project_1\\data\\abp_accel.csv"
